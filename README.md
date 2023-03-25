@@ -1,8 +1,5 @@
-# Text-Analysis-Project
- 
-**1. Project Overview (~1 paragraph)
-What data source(s) did you use? What technique(s) did you use to process or analyze them? What did you hope to create or learn through this project?**
 
+<<<<<<< HEAD
 I use Gutenberg.org to download my favorite ebook “Little Women” by Louisa May Alcott into VScode. After reading in the sources my first step was to remove stop words from the text, like it said under part 3 of the instructions. I then thought it would be interesting to find out the most common words because it could give a better understanding of what was most important to the book. I also compared them to those of another popular book "Jane Eyre" by Charlotte Bronte. I then dived deeper into looking at topics and visualizing the occurence of each sister in "Little Women." I essentially wanted to examine closely the word choices of the author and find out what her word choices say about the characters, specifically about the four sisters and there were some surprising discoveries. I also wanted to create some sort of visualization during the project in order to better understand the code I was running. 
 
 **2. Implementation (~1-2 paragraphs + screenshots)
@@ -53,3 +50,5 @@ When examining the scatterplot (picture below) what I found interesting was that
 From a learning perspective, mention what you learned through this project, how ChatGPT helped you, and how you'll use what you learned going forward. What do you wish you knew beforehand that would have helped you succeed?****
 **
 I actually really enjoyed this homework assignment. I think chatGPT is part of the future and it will become vital to know how to utilize it in order to succeed in the future. I did not know quite the extent that chatGPT could help until this project and I felt the answers it gave were much more impressive than I even thought it could do, of course it is not perfect and does not always give the best answer, but it is a useful learning tool. I used chatgpt throughout the project when I either was stuck, or I needed inspiration on what else I could change about my text. I think overall I should've gone in with a better testing plan, as I kinda did whatever seemed most interesting to me at the time and had I been a bit more organized I think testing might've been a little more coherent. I think using other techniques could have improved my project as well as finding other ways to visualize my results, or again going in with a more distinct plan or question rather than my general plan of learning what topics/words were most important. I think in the future I will use chatGPT to further explain difficult concepts (utilizing the feature where I can request it explains it to me in simple terms or like it was explaining it a 12 year old) as well as a way to learn more about what interests me or what I would potentially like to pursue further in research. 
+=======
+>>>>>>> 4900bc4f2b5dd8e92b9d501415447cfc4daaca85
